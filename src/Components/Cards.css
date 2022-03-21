@@ -1,0 +1,41 @@
+.card{
+    background-color: #e4e4e4e4;
+   
+}
+
+
+.CardbodyContent {
+    padding-top: 65px; 
+    width: 40vh;
+    height: 40vh;
+    font-family: "Poppins", sans-serif;
+    border: 5px solid rgb(2, 58, 2);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    background-color:#eee;
+    border-radius: 10%;
+    transition: 0.3s;
+  }
+
+
+  .CardbodyContent:hover {
+    transform: translateY(-7%);
+    box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.5);
+  }
+
+  
+  .paragraph{
+     
+       text-align: center;
+       line-height: 50px;
+       font-size: 25px;
+       color: #000;
+       font-style: bold;
+       margin: 0px;
+       
+       
+  }
+
+
+  
