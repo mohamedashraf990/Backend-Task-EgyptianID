@@ -41,7 +41,7 @@ The main focus of this project is to verify that a given ID is valid and also to
 
 ### API Documentation
 
-**The API Response consists of 
+**The API Response consists of**
 
 1. birthCentury: 2 = *1900-1999* , 3 = *2000-2099*
 2. gov: Government that the user was born in
