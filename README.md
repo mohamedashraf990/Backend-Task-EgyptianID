@@ -23,7 +23,8 @@ The main focus of this project is to verify that a given ID is valid and also to
 ### Backend Part
 1. Create new folder nodejs-test
 2. Open folder in vscode
-3. Clone Backend Branch and rename the file using the following git command: "git clone --branch backend https://github.com/mohamedashraf990/Backend-Task-EgyptianID.git server"
+3. open new terminal
+4. Clone Backend Branch and rename the file using the following git command: "git clone --branch backend https://github.com/mohamedashraf990/Backend-Task-EgyptianID.git server"
 5. Change directory of Terminal using cd server
 6. run npm install in Terminal
 7. Start Backend Project by node index.js
